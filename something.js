@@ -1,1 +1,1 @@
-console.log('awesomness cool')
+console.log('awesomness')
